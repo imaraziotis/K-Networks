@@ -23,5 +23,4 @@ If you make use of this software please consider citing the following papers:<br
 
 ### Licence:
 The code in this repositary is released under the following licence:
-
-Format: ![Alt Text](url)
+ BSD-3-Clause License
