@@ -1,8 +1,8 @@
-![GitHub Logo](/images/K-Nets4.png)
-
-one two
 <p align="center">
 <img src="/images/K-Nets4.png" >
+</p>
+<p align="center">
+K-Nets partitioning 100000 2d points into 100, 1000 and 10000 clusters.
 </p>
 
 ## K-Networks (K-Nets)
