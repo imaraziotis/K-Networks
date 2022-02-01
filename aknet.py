@@ -2,7 +2,7 @@
 # 
 # Licence: BSD 3 clause
 
-# ann_knet: Aproximate K-Nets clustering. Recursive function.
+# Brief description akknet: Aproximate K-Nets clustering. Recursive function.
 # Operation: 1) Partitions subset of the dataset into a number of clusters, 2) Partition each one of the partititions
 # into a number of clusters. Keep on Applying the aforemenionted process untill.
 
