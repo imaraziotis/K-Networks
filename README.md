@@ -18,7 +18,7 @@ Based on the initial K-Nets partition (Construction/Selection) the number of ite
 
 ### Citation:
 If you make use of this software please consider citing the following papers:<br>
-1. IA Maraziots, S Perantonis, A. Dragomir, D. Thanos, "K-Nets: Clustering though Nearest Neighbors Networks.", Pattern Recognition 2019<br> 
+1. IA Maraziots, S Perantonis, A. Dragomir, D. Thanos, "K-Nets: Clustering though Nearest Neighbors Networks", Pattern Recognition 2019<br> 
 2. <br>
 
 ### Licence:
