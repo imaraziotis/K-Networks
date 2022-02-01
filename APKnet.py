@@ -1,6 +1,7 @@
 # Author: Ioannis Maraziotis <i.maraziotis@gmail.com>
 #
 # License: BSD 3 clause
+
 import scipy.io as sio
 from scipy.spatial import distance
 import numpy as np
@@ -12,7 +13,8 @@ import utils4knets
 # *******************************
 #    Assignment Knet Phase
 # *******************************
-
+# The implementation of the Assignment phase for the 3 different types of data formats 
+# (Similarity, Pattern and Sparse Similarity matrix) accepted as input by K-Nets.
 """
 assign_DMODE: assignment of samples to Nearst exemplars based on Data matrix. 
 
@@ -25,8 +27,6 @@ For every exemplar in current_partition:
 2. Assigns the members of each cluster among the ENE 
 
 """
-
-
 def assign_DMODE(data, current_partition, newExemplars, kns):
     priorExemplars = np.unique(current_partition)
     new_labels = np.zeros(np.shape(current_partition)[0], dtype=np.int32)
