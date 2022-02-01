@@ -1,3 +1,6 @@
+# Author: Ioannis Maraziotis <i.maraziotis@gmail.com>
+#
+# License: BSD 3 clause
 import scipy.io as sio
 from scipy.spatial import distance
 import numpy as np
