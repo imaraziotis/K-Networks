@@ -1,5 +1,10 @@
 ![GitHub Logo](/images/K-Nets4.png)
 
+one two
+<p align="center">
+<img src="/images/K-Nets4.png" >
+</p>
+
 ## K-Networks (K-Nets)
 K-Networks is a scalable exemplar-based clustering algorithm. Its operation is composed of three phases. In the first two, the number of exemplars is determined and we have an initial partition while the last is a fine tuning phase.
 
