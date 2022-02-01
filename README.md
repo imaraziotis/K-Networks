@@ -6,7 +6,7 @@ K-Nets partitioning 100000 2d points into 100, 1000 and 10000 clusters.
 </p>
 
 ## K-Networks (K-Nets)
-K-Networks is a scalable exemplar-based clustering algorithm. Its operation is composed of three phases. In the first two, the number of exemplars is determined and we have an initial partition while the last is a fine tuning phase.
+K-Networks is a scalable exemplar-based clustering algorithm. Its operation is composed of three phases. In the first two, the number of exemplars is determined and we have an initial partition while the last is a fine tuning phase (see also [here](https://users.iit.demokritos.gr/~imaraziotis/knets/art_index.html)).
 
 
 ### Resolution: 
