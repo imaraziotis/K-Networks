@@ -8,6 +8,7 @@ K-Nets partitioning 100000 2d points into 100, 1000 and 10000 clusters.
 ## K-Networks (K-Nets)
 K-Networks is a scalable exemplar-based clustering algorithm (see also [here](https://users.iit.demokritos.gr/~imaraziotis/knets/index.html)). Its operation is composed of three phases. In the first two, the number of exemplars is determined and we have an initial partition while the last is a fine tuning phase.
 
+<br>addition<br>
 
 ### Resolution: 
 Clustering resolution (i.e. number of extracted clusters) in K-Nets is controlled through the integer parameter k indicating the k NNs of every sample. The smaller the value of k the larger the number of extracted clusters. <br><br>
